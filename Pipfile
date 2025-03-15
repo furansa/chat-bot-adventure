@@ -14,7 +14,6 @@ pyMuPDF = "==1.25.3"
 semantic-kernel = "==1.21.3"
 
 [dev-packages]
-ipykernel = "*"
 
 [requires]
 python_version = "3.13"
